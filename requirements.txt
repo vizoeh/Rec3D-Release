@@ -1,0 +1,8 @@
+pyvista
+numpy
+PyQt5
+pyvistaqt
+superqt
+scipy
+csv
+cv2
